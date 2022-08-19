@@ -1,2 +1,5 @@
-# viml-prac
-VimL practice repo.
+# VimL practice
+
+学习参考书籍：
+
+[lymslive/vimllearn](https://github.com/lymslive/vimllearn)
